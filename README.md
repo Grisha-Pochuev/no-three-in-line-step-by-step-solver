@@ -1,4 +1,8 @@
-[Uploading README.md…]()
+> Project status: archived.
+>
+> This repository was an exploratory step-by-step attempt to study the classical no-three-in-line problem.
+> The project is no longer actively maintained, because the current computational frontier is better covered by specialized SAT-based work, including the public configurations collected by Achim Flammenkamp and recent solutions by Marijn Heule.
+> 
 # No-Three-In-Line Solver Step by Step
 
 This repository is part of my personal project **The Open Mathematics Project**.
